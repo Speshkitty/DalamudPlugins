@@ -1,0 +1,18 @@
+{
+  "Author": "Speshkitty",
+  "Name": "Palace of the Dead Helper",
+  "InternalName": "PotDHelper",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "palace",
+    "potd",
+    "palace of the dead",
+    "hoh",
+    "heaven on high"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "Punchline": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High"
+}
