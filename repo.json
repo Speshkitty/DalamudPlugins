@@ -1,0 +1,16 @@
+[
+  {
+    "Author": "Speshkitty",
+    "Name": "PotD Helper",
+    "Description": "Move around housing items with coordinates and allows you to place anywhere.",
+    "InternalName": "PotDHelper",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "palace"
+    ],
+    "DalamudApiLevel": 6,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadLinkInstall": null,
+  }
+]
