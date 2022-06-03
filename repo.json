@@ -11,7 +11,7 @@
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": https://github.com/Speshkitty/DalamudPlugins/raw/main/PotDHelper/latest.zip,
-    "DownloadLinkUpdate": https://github.com/Speshkitty/DalamudPlugins/raw/main/PotDHelper/latest.zip
+    "DownloadLinkInstall": "https://github.com/Speshkitty/DalamudPlugins/raw/main/PotDHelper/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/raw/main/PotDHelper/latest.zip"
   }
 ]
