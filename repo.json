@@ -3,7 +3,7 @@
   "Author": "Speshkitty",
   "Name": "Palace of the Dead Helper",
   "InternalName": "PotDHelper",
-  "AssemblyVersion": "0.0.0.2",
+  "AssemblyVersion": "1.0.0",
   "Description": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
   "ApplicableVersion": "any",
   "Tags": [
@@ -18,7 +18,7 @@
   "Punchline": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
   "IsHide": "False",
   "IsTestingExclusive": "False",
-  "DownloadLinkInstall": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper/PotDHelper.zip",
-  "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper/PotDHelper.zip"
+  "DownloadLinkInstall": "https://github.com/Speshkitty/DalamudPlugins/releases/download/v1.0.0/PotDHelper.1.0.0.zip",
+  "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/releases/download/v1.0.0/PotDHelper.1.0.0.zip"
 }
 ]
