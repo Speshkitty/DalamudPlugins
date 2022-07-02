@@ -14,7 +14,7 @@
     "heaven on high",
     "deep dungeon"
   ],
-  "Changelog": "- Moved the backend onto AWS\n-Added version checking to new location data\n-Made some database functions run async to avoid hangs on zone changes\n-Limited the zone lookups to only happen when entering a PotD/HoH zone\n-Renamed to Deep Dungeon Helper from PotD Helper",
+  "Changelog": "- Moved the backend onto AWS\n- Added version checking to new location data\n- Made some database functions run async to avoid hangs on zone changes\n- Limited the zone lookups to only happen when entering a PotD/HoH zone\n- Renamed to Deep Dungeon Helper from PotD Helper",
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
