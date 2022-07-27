@@ -14,7 +14,7 @@
     "heaven on high",
     "deep dungeon"
   ],
-  "Changelog": "- Microstutters fixed (With thanks to SiliconExarch)\n- Character and Servers are now SHA256'ed before being sent to the database",
+  "Changelog": "- Microstutters fixed (With thanks to SiliconExarch)\n-Fixed points not loading on map change\n- Character and Servers are now SHA256'ed before being sent to the database",
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
