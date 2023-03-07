@@ -3,7 +3,7 @@
   "Author": "Speshkitty",
   "Name": "Deep Dungeon Helper",
   "InternalName": "PotDHelper",
-  "AssemblyVersion": "1.5.0.0",
+  "AssemblyVersion": "1.5.0.1",
   "Description": "Tracks traps & Accursed Hoard in Palace of The Dead, Heaven on High, and Eureka Orthos",
   "ApplicableVersion": "any",
   "Tags": [
@@ -12,15 +12,16 @@
     "palace of the dead",
     "hoh",
     "heaven on high",
-    "deep dungeon"
+    "deep dungeon",
+    "eureka orthos"
   ],
-  "Changelog": "1.5.0.0\n - Updated for patch 6.35",
+  "Changelog": "1.5.0.1\n - Added what I believe to be the Owlet trap\n\n1.5.0.0\n - Updated for patch 6.35",
   "DalamudApiLevel": 8,
   "LoadPriority": 0,
   "Punchline": "Tracks traps & Accursed Hoard in Palace of The Dead, Heaven on High, and Eureka Orthos",
   "IsHide": "False",
   "IsTestingExclusive": "False",
-  "DownloadLinkInstall": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.5.0.0/PotDHelper.v1.5.0.0.zip",
-  "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.5.0.0/PotDHelper.v1.5.0.0.zip"
+  "DownloadLinkInstall": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.5.0.1/PotDHelper.v1.5.0.1.zip",
+  "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.5.0.1/PotDHelper.v1.5.0.1.zip"
 }
 ]
