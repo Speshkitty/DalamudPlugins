@@ -3,8 +3,8 @@
   "Author": "Speshkitty",
   "Name": "Deep Dungeon Helper",
   "InternalName": "PotDHelper",
-  "AssemblyVersion": "1.4.0.3",
-  "Description": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
+  "AssemblyVersion": "1.5.0.0",
+  "Description": "Tracks traps & Accursed Hoard in Palace of The Dead, Heaven on High, and Eureka Orthos",
   "ApplicableVersion": "any",
   "Tags": [
     "palace",
@@ -14,13 +14,13 @@
     "heaven on high",
     "deep dungeon"
   ],
-  "Changelog": "1.4.0.3\n - Updated for patch 6.3\n\n1.4.0.2\n - Updated for patch 6.2\n\n1.4.0.1\n - Handles changing characters properly\n\n1.4.0.0\n - Microstutters fixed (With thanks to SiliconExarch)\n - Fixed points not loading on map change\n - Character and Servers are now SHA256'ed before being sent to the database",
+  "Changelog": "1.5.0.0\n - Updated for patch 6.35",
   "DalamudApiLevel": 8,
   "LoadPriority": 0,
-  "Punchline": "Tracks traps & Accursed Hoard in Palace of The Dead and Heaven on High",
+  "Punchline": "Tracks traps & Accursed Hoard in Palace of The Dead, Heaven on High, and Eureka Orthos",
   "IsHide": "False",
   "IsTestingExclusive": "False",
-  "DownloadLinkInstall": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.4.0.3/PotDHelper.v1.4.0.3.zip",
-  "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.4.0.3/PotDHelper.v1.4.0.3.zip"
+  "DownloadLinkInstall": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.5.0.0/PotDHelper.v1.5.0.0.zip",
+  "DownloadLinkUpdate": "https://github.com/Speshkitty/DalamudPlugins/releases/download/PotDHelper-v1.5.0.0/PotDHelper.v1.5.0.0.zip"
 }
 ]
